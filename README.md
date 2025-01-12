@@ -17,3 +17,4 @@ Before starting, ensure the following tools are installed on your system:
 ## Table of Contents
 
 1. [Installing Neovim](01-installing-neovim.md)
+2. [Learning Neovim](02-learning-neovim.md)
