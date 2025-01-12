@@ -70,8 +70,6 @@ Later, you can explore advanced areas like:
 
 ---
 
-## Final Thoughts
-
 Neovim and LazyVim open up a world of possibilities far beyond standard Vim editing. By starting small and exploring incrementally, you can start using features that truly enhance your productivity.
 
 Check out the [Neovim documentation](https://neovim.io/doc/user/) and [LazyVim's guide](https://www.lazyvim.org/) for more details, and have fun customizing your workflow!
